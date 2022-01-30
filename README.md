@@ -1,17 +1,17 @@
-# githubPagesProject
+## githubPagesProject
 
 Projet individuel Github Pages
 
 ## Informations Général
-This project is simple Lorem ipsum dolor generator.
+Mise en place du repository GitHub pour permettre un bon focntionnement de la gestion du projet.
 	
 ## Technologies
-Project is created with:
+Projet réalisés avec:
 * Git: 2.25.1
 * GitHub: 3.1.15
 	
 ## Setup
-Pour run le projet, créer un dossier en local. Installer git :
+Pour run le projet, créer un dossier en local. Puis installer git :
 
 - Sous Linux : 
 ```
